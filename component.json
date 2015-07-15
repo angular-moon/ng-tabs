@@ -1,0 +1,15 @@
+{
+    "version": "0.2.5",
+    "description": "angular版本的tabs实现",
+    "name": "ng-tabs",
+    "main": "ng-tabs.js",
+    "dependencies": [
+        "angular"
+    ],
+    "shim": {
+        "ng-tabs.js": {
+            "deps": ["angular"],
+            "exports": "'tabs'"
+        }
+    }
+}
