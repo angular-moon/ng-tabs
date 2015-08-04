@@ -4,7 +4,8 @@
     "name": "ng-tabs",
     "main": "ng-tabs.js",
     "dependencies": [
-        "angular"
+        "angular",
+        "bootstrap"
     ],
     "shim": {
         "ng-tabs.js": {

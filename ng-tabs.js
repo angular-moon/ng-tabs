@@ -4,6 +4,7 @@
  * @version: 0.2.5, 2012-08-25
  */
 
+//@require bootstrap/css/bootstrap.css
 
 'use strict';
 
